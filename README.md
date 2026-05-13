@@ -30,4 +30,4 @@ This shows the installed PHP version on the server.
 
 ### 3. User List
 This shows the Linux users configured on the server.
-![Users](User%20List.png)
+![Users](User%20List.jpeg)
